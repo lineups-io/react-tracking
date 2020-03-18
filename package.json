@@ -70,6 +70,7 @@
     ]
   },
   "dependencies": {
+    "babel-preset-gatsby-package": "^0.2.18",
     "core-js": "^3.3.2",
     "deepmerge": "^4.1.1",
     "hoist-non-react-statics": "^3.3.0"
