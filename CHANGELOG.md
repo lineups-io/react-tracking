@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [7.3.4](https://github.com/nytimes/react-tracking/compare/v7.3.3...v7.3.4) (2020-05-26)
+
+
+### Bug Fixes
+
+* 🐛 install missing peer dependency ([c0a735e](https://github.com/nytimes/react-tracking/commit/c0a735ecc753cc1e2dc5d80a0d767e975b17e48d))
+
 ### [7.3.3](https://github.com/nytimes/react-tracking/compare/v7.3.2...v7.3.3) (2020-05-26)
 
 
