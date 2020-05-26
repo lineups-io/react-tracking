@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [7.4.0](https://github.com/nytimes/react-tracking/compare/v7.3.4...v7.4.0) (2020-05-26)
+
+
+### Features
+
+* 🎸 convert package-lock.json to yarn.lock ([c22ef14](https://github.com/nytimes/react-tracking/commit/c22ef14066057e86105c0d0f5d4c84fae1be5568))
+
 ### [7.3.4](https://github.com/nytimes/react-tracking/compare/v7.3.3...v7.3.4) (2020-05-26)
 
 
