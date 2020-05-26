@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [7.4.2](https://github.com/nytimes/react-tracking/compare/v7.4.1...v7.4.2) (2020-05-26)
+
+
+### Bug Fixes
+
+* 🐛 upgrade gatsby-preset-gatsby-package ([3f52c81](https://github.com/nytimes/react-tracking/commit/3f52c81e7b7d79e9eacd5b881d6fe09a78f866bd))
+
 ### [7.4.1](https://github.com/nytimes/react-tracking/compare/v7.4.0...v7.4.1) (2020-05-26)
 
 
