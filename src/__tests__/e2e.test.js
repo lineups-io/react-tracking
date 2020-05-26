@@ -128,10 +128,9 @@ describe('e2e', () => {
       }
     }
 
-    const TestData3 = track(
-      { key: { x: 3, y: 3 } },
-      { dispatchOnMount: true }
-    )(() => <div />);
+    const TestData3 = track({ key: { x: 3, y: 3 } }, { dispatchOnMount: true })(
+      () => <div />
+    );
 
     const TestData2 = track(testData2)(() => <TestData3 />);
 
