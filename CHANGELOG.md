@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [7.4.1](https://github.com/nytimes/react-tracking/compare/v7.4.0...v7.4.1) (2020-05-26)
+
+
+### Bug Fixes
+
+* 🐛 eslint format errors ([86217aa](https://github.com/nytimes/react-tracking/commit/86217aabe1cc0b3065f0f66df5ea9bfb1bc60331))
+* 🐛 use yarn in scripts ([0c8cb83](https://github.com/nytimes/react-tracking/commit/0c8cb833f6e42a6767f490aea259ea5828218c80))
+
 ## [7.4.0](https://github.com/nytimes/react-tracking/compare/v7.3.4...v7.4.0) (2020-05-26)
 
 
